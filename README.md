@@ -8,6 +8,7 @@ A Drawing Tool using C++ Classes by Muditt Khurana
   Compile solution using visual studio 2019,win32,c++14
   
   
-  solution file CppDraw.sln
+  Solution file CppDraw.sln
   
   
+  Sample windows exe file in debug file CppDraw.exe
