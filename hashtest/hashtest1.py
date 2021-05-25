@@ -1,8 +1,8 @@
 import hashlib
 import timeit
 
-#crypt=input("")
-crypt="testblock"
+crypt=input("")
+#crypt="athassin"
 i=1 
 startTime=timeit.default_timer()
 while 1:
