@@ -8,7 +8,7 @@ import "../ABDKMath64x64.sol";
 // coin/token contracts. If you want to create a standards-compliant
 // token, see: https://github.com/ConsenSys/Tokens. Cheers!
 
-// Submitted by Muditt Khurana as assignment
+// UnHingedFrog
 
 contract MetaCoin {
 	mapping (address => uint256) balances;
